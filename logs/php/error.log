@@ -1,0 +1,324 @@
+[25-Feb-2022 00:07:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[25-Feb-2022 00:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_body() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:5
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#3 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 5
+[25-Feb-2022 18:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:2
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/ljiuser/...')
+#4 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 2
+[25-Feb-2022 18:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/ljiuser/...')
+#4 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/ljiuser/...')
+#4 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:26:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 19:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[25-Feb-2022 19:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:6
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-settings.php(555): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-config.php(77): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/ljiuser/...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#5 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 6
+[28-Feb-2022 18:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_engueue_script() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:3
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): university_files('')
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/script-loader.php(2105): do_action('wp_enqueue_scri...')
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-incl in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[28-Feb-2022 19:54:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 20
+[28-Feb-2022 20:52:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 22
+[28-Feb-2022 22:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blody_class() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:11
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template.php(770): require_once()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template.php(716): load_template('/Users/ljiuser/...', true, Array)
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(2): get_header()
+#4 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/ljiuser/...')
+#5 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#6 /Users/ljiuser/Local Sites/fictional-university/app/p in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 11
+[28-Feb-2022 22:35:58 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[01-Mar-2022 17:42:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 20
+[01-Mar-2022 19:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_list() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:24
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#3 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 24
+[01-Mar-2022 20:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_header() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php:1
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#3 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 1
+[01-Mar-2022 20:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_header() in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php:1
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#3 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 1
+[02-Mar-2022 01:07:56 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 54
+[02-Mar-2022 01:07:56 UTC] PHP Stack trace:
+[02-Mar-2022 01:07:56 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:07:56 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:07:56 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:07:56 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:20:59 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 64
+[02-Mar-2022 01:20:59 UTC] PHP Stack trace:
+[02-Mar-2022 01:20:59 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:20:59 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:20:59 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:20:59 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:20:59 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 64
+[02-Mar-2022 01:20:59 UTC] PHP Stack trace:
+[02-Mar-2022 01:20:59 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:20:59 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:20:59 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:20:59 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:22:15 UTC] PHP Warning:  Use of undefined constant jdmonthname - assumed 'jdmonthname' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 60
+[02-Mar-2022 01:22:15 UTC] PHP Stack trace:
+[02-Mar-2022 01:22:15 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:22:15 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:22:15 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:22:15 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:22:15 UTC] PHP Warning:  Use of undefined constant jdmonthname - assumed 'jdmonthname' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 60
+[02-Mar-2022 01:22:15 UTC] PHP Stack trace:
+[02-Mar-2022 01:22:15 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:22:15 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:22:15 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:22:15 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:22:23 UTC] PHP Warning:  Use of undefined constant j - assumed 'j' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 60
+[02-Mar-2022 01:22:23 UTC] PHP Stack trace:
+[02-Mar-2022 01:22:23 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:22:23 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:22:23 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:22:23 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[02-Mar-2022 01:22:23 UTC] PHP Warning:  Use of undefined constant j - assumed 'j' (this will throw an Error in a future version of PHP) in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 60
+[02-Mar-2022 01:22:23 UTC] PHP Stack trace:
+[02-Mar-2022 01:22:23 UTC] PHP   1. {main}() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:0
+[02-Mar-2022 01:22:23 UTC] PHP   2. require() /Users/ljiuser/Local Sites/fictional-university/app/public/index.php:17
+[02-Mar-2022 01:22:23 UTC] PHP   3. require_once() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[02-Mar-2022 01:22:23 UTC] PHP   4. include() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
