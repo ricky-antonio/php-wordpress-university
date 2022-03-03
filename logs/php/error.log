@@ -326,3 +326,10 @@ Stack trace:
 [02-Mar-2022 20:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
 [02-Mar-2022 20:45:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
 [02-Mar-2022 21:02:36 UTC] PHP Parse error:  syntax error, unexpected ''labels'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[02-Mar-2022 21:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:29
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#3 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 29
