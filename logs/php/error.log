@@ -341,3 +341,5 @@ Stack trace:
 #3 {main}
   thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 22
 [05-Mar-2022 00:35:55 UTC] PHP Parse error:  syntax error, unexpected ''posts_per_page'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 22
+[07-Mar-2022 18:48:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 42
+[07-Mar-2022 18:48:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 42
