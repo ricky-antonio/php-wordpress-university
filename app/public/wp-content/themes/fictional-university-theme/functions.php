@@ -19,6 +19,8 @@
     add_action('after_setup_theme', 'university_features');
 
     function university_adjust_queries($query) {
+        if ($query->get('post_type') === 'nav_menu_item') { return; };
+
         $today = date('Ymd');
 
         if (!is_admin() && is_post_type_archive('event') && is_main_query()) {
