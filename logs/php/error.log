@@ -378,3 +378,11 @@ Stack trace:
 [14-Mar-2022 20:26:21 UTC] PHP  14. Core_Command->get_updates() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:78
 [14-Mar-2022 20:26:21 UTC] PHP  15. wp_version_check() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1291
 [14-Mar-2022 20:26:21 UTC] PHP  16. trigger_error() /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/update.php:175
+[16-Mar-2022 16:48:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-professor.php on line 12 and at least 1 expected in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:75
+Stack trace:
+#0 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-professor.php(12): the_field()
+#1 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/ljiuser/...')
+#2 /Users/ljiuser/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/ljiuser/...')
+#3 /Users/ljiuser/Local Sites/fictional-university/app/public/index.php(17): require('/Users/ljiuser/...')
+#4 {main}
+  thrown in /Users/ljiuser/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 75
